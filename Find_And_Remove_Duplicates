@@ -1,0 +1,57 @@
+
+### Finding Duplicates
+
+1. **Select Your Data:**
+   - Highlight the range of cells where you want to check for duplicates.
+
+2. **Go to the Data Tab:**
+   - Click on the **Data** tab in the ribbon.
+
+3. **Remove Duplicates:**
+   - Click on **Remove Duplicates** in the Data Tools group. This will open a dialog box.
+
+4. **Select Columns:**
+   - In the dialog box, you can choose which columns to check for duplicates. If you want to check all columns, leave them all selected.
+
+5. **Click OK:**
+   - Click **OK** to find duplicates. Excel will inform you how many duplicates were found and removed, and how many unique values remain.
+
+### Highlighting Duplicates (Optional)
+
+If you want to find duplicates without removing them right away, you can highlight them:
+
+1. **Select Your Data:**
+   - Highlight the range of cells.
+
+2. **Go to the Home Tab:**
+   - Click on the **Home** tab in the ribbon.
+
+3. **Conditional Formatting:**
+   - Click on **Conditional Formatting** in the Styles group.
+   - Choose **Highlight Cells Rules** > **Duplicate Values**.
+
+4. **Choose Formatting:**
+   - In the dialog box, select how you want the duplicates to be formatted (e.g., with a specific fill color).
+
+5. **Click OK:**
+   - Click **OK** to apply the formatting. Now, duplicates will be highlighted in the selected range.
+
+### Removing Duplicates Without Checking
+
+If you're certain you want to remove duplicates:
+
+1. **Select Your Data:**
+   - Highlight the range of cells where you want to remove duplicates.
+
+2. **Go to the Data Tab:**
+   - Click on the **Data** tab in the ribbon.
+
+3. **Remove Duplicates:**
+   - Click **Remove Duplicates** in the Data Tools group.
+
+4. **Select Columns:**
+   - Choose the columns you want to check for duplicates.
+
+5. **Click OK:**
+   - Click **OK**. Excel will remove the duplicates and give you a summary of how many were found and deleted.
+
