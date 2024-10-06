@@ -1,0 +1,26 @@
+Conditional formatting in Excel allows you to apply specific formatting to cells based on their values or formulas. This feature helps to highlight trends, identify outliers, and make your data visually informative. Here’s how to use conditional formatting effectively:
+
+--How to Apply Conditional Formatting--
+Select the Cells:
+
+1.Highlight the range of cells you want to format.
+Go to Conditional Formatting:
+
+2.Click on the Home tab in the ribbon.
+In the Styles group, click on Conditional Formatting.
+Choose a Rule Type:
+
+3.Highlight Cell Rules: Quickly format cells based on specific criteria (e.g., greater than, less than, between).
+Top/Bottom Rules: Highlight the top 10 items, bottom 10%, etc.
+Data Bars: Visualize values with horizontal bars.
+Color Scales: Apply gradient colors based on value.
+Icon Sets: Use icons to represent values visually.
+Set Your Criteria:
+
+4.After selecting a rule, a dialog box will appear. Define the criteria for your formatting. For example, if you choose "Greater Than," you will specify the value that triggers the formatting.
+Choose Formatting Style:
+
+5.Select the formatting options (font color, fill color, border style) you want to apply when the condition is met.
+Click OK:
+
+6.Confirm your settings by clicking OK. The formatting will be applied to the selected cells.
