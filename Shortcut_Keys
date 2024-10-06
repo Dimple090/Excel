@@ -1,0 +1,34 @@
+Shortcut Keys 
+
+1.ctrl+C:Copy
+2.Ctrl+V:Paste
+3.Ctrl+Z:Undo
+4.Ctrl+Y:Redo
+5.Ctrl+A:Select All
+6.F2:Edit Cell
+7.Home:Move to the beginning of the worksheet
+8.End:Move to the end of the Worksheet
+9.Ctrl+9:Hides the selected rows
+10.Ctrl+0:Hides the selected columns
+11.Ctrl+F1:Display or hides the ribbon
+12.Ctrl+F2:Display the print preview data
+13.ctrl+N:Create new workbook
+14.Ctrl+o:Open workbook
+15.Ctrl+S:Save workbook
+16.Ctrl+W:Close current workbook
+17.Ctrl+P:Print file
+18.Alt+F+T:Open option
+19.F1:Open help
+20.Ctrl+Shift+L:Add or remove a filter
+21.F12:Save as
+22.Ctrl+T:Activate the design tab
+23.Ctrl+F8:Performs the Size command 
+24.Ctrl+F9: Minimizes the workbook window 
+25.Ctrl+F10: Maximizes or restores the selected workbook 
+26.Ctrl+A: Selects the entire worksheet 
+27.Ctrl+F4: Closes Excel 
+28.Ctrl+PageDown: Moves to the next sheet 
+29.Ctrl+PageUp: Moves to the previous sheet  
+30.Shift+F11: Inserts a new worksheet 
+31.Ctrl+Shift+$: Applies currency formatting 
+32.Ctrl+Shift+#: Applies date formatting 
