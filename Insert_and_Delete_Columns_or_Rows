@@ -1,0 +1,70 @@
+-- Inserting Rows and Columns--
+
+-- Insert Rows --
+
+1. **Select the Row:**
+   - Click on the row number below where you want to insert a new row. For example, if you want to insert a row above row 5, click on row 5.
+
+2. **Right-Click:**
+   - Right-click on the selected row number.
+
+3. **Insert:**
+   - Choose **Insert** from the context menu. A new row will be added above the selected row.
+
+--Alternative Method:--
+- You can also use the ribbon:
+  - Go to the **Home** tab.
+  - In the **Cells** group, click on **Insert**, and then select **Insert Sheet Rows**.
+
+-- Insert Columns---
+
+1. **Select the Column:**
+   - Click on the letter of the column to the right of where you want to insert a new column. For example, if you want to insert a column before column B, click on column B.
+
+2. **Right-Click:**
+   - Right-click on the selected column letter.
+
+3. **Insert:**
+   - Choose **Insert** from the context menu. A new column will be added to the left of the selected column.
+
+--Alternative Method:--
+- Go to the **Home** tab.
+- In the **Cells** group, click on **Insert**, and then select **Insert Sheet Columns**.
+
+02 Deleting Rows and Columns
+
+-- Delete Rows--
+
+1. **Select the Row:**
+   - Click on the row number you want to delete.
+
+2. **Right-Click:**
+   - Right-click on the selected row number.
+
+3. **Delete:**
+   - Choose **Delete** from the context menu. The selected row will be removed.
+
+--Alternative Method:--
+- Go to the **Home** tab.
+- In the **Cells** group, click on **Delete**, and then select **Delete Sheet Rows**.
+
+-- Delete Columns--
+
+1. **Select the Column:**
+   - Click on the letter of the column you want to delete.
+
+2. **Right-Click:**
+   - Right-click on the selected column letter.
+
+3. **Delete:**
+   - Choose **Delete** from the context menu. The selected column will be removed.
+
+**Alternative Method:**
+- Go to the **Home** tab.
+- In the **Cells** group, click on **Delete**, and then select **Delete Sheet Columns**.
+
+-----Tips----
+
+- **Multiple Rows/Columns:** You can select multiple rows or columns by clicking and dragging or holding down the Ctrl key while clicking on multiple row or column numbers/letters, then right-clicking and choosing Insert or Delete.
+- **Undo Changes:** If you accidentally insert or delete something, you can use Ctrl + Z to undo the action.
+
